@@ -1,0 +1,4 @@
+.DS_Store
+output
+notebooks/.ipynb_checkpoints
+*~
